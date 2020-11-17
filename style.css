@@ -19,6 +19,7 @@ body {
 p{
     color:white;
     font-size: 30px;
+    font-family: 'Playfair Display SC', serif;
 }
 #input{
     width: 100px ;
@@ -27,4 +28,9 @@ p{
 
 #btn{
     margin :25px auto auto 5px;
+}
+
+.footer{
+    text-align: center;
+    margin-top:-100px;
 }
